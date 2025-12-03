@@ -26,6 +26,7 @@ PlatinumRx_Assignment/
 │
 └── README.md
 
+
 🧠 Assignment Sections
 1️⃣ SQL – Hotel & Clinic Systems
 
@@ -126,9 +127,9 @@ Spreadsheet Link (Google Sheets):
 (Add your share link here)
 
 🎉 Completed By:
-
-[Your Name]
+Manoj Gugulothu
 PlatinumRx Data Analyst Assignment
 
 
 🔚 END OF README
+
