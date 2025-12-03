@@ -124,7 +124,7 @@ https://github.com/ManojHubBuilds/PlatinumRx_Assignment
 
 
 Spreadsheet Link (Google Sheets):
-(Add your share link here)
+(https://docs.google.com/spreadsheets/d/1L7HIJKnI6crYefcRsv4h5kIKPFxzdp3jY_GO7B8ujoQ/edit?usp=sharing)
 
 🎉 Completed By:
 Manoj Gugulothu
@@ -132,4 +132,5 @@ PlatinumRx Data Analyst Assignment
 
 
 🔚 END OF README
+
 
